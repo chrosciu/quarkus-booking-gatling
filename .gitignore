@@ -1,0 +1,8 @@
+/target
+/.mvn/wrapper/*.jar
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
